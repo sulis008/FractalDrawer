@@ -1,0 +1,15 @@
+Project completed by: Alexander Sulistyo, sulis008
+Contributions made by Alex S
+Run program with steps:
+Enter "javac FractalDrawer.java"
+Enter "java FractalDrawer"
+Enter "Circle", "Triangle", or "Rectangle"
+Observe fractal drawn with recursive techniques
+Assume all work was completed by Alex S
+Additional implementation: Random Color helper method in FractalDrawer.java
+No known bugs or defects.
+No outside sources (aside from course resources)
+Academic Integrity Statement: "I certify that the information contained in this README file is complete and accurate.
+I have both read and followed the course policies in the 'Academic Integrity - Course Policy' section of the course
+syllabus."
+    Alexander Sulistyo, sulis008
